@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="target" level="project" />
+    <orderEntry type="library" name="target2" level="project" />
+    <orderEntry type="library" name="giraph-examples-0.2-SNAPSHOT-for-hadoop-1.2.1-jar-with-dependencies" level="project" />
+    <orderEntry type="library" name="munged1" level="project" />
+    <orderEntry type="library" name="target3" level="project" />
+    <orderEntry type="library" name="target1" level="project" />
+    <orderEntry type="library" name="giraph-0.2-SNAPSHOT-for-hadoop-1.2.1-jar-with-dependencies" level="project" />
+    <orderEntry type="module" module-name="munged" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="munged3" />
+    <orderEntry type="module" module-name="main4" />
+  </component>
+</module>
