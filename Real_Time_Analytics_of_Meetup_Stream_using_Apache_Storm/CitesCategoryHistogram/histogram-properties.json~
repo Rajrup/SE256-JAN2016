@@ -1,0 +1,10 @@
+{
+  "input-file-path": "//home//shilpa//Datasets//MeetupData//meetup-open-events.txt",
+  "count-tasks": "5",
+  "intermediate-file-path": "//home//shilpa//Datasets//MeetupData//EventCategoryLocation.csv",,
+  "output-file-path": "//home//shilpa//Datasets//MeetupData//CategoryLocationHistoram.csv",
+  "emit-freq": "10",
+  "city" : "Bangalore",
+  "rsvp-input-file-path": "//home//shilpa//Datasets//MeetupData//meetup-rsvps",
+  "rsvp-output-file-path" "//home//shilpa//Datasets//MeetupData//CategoryLocationRsvpCountUpdated.csv" 
+}

@@ -1,0 +1,7 @@
+{
+	"bloom-filter-train-input":"/home/shilpa/Datasets/MeetupData/meetup-rsvps-train.txt",
+	"bloom-filter-train-output":"/home/shilpa/Datasets/MeetupData/BloomFilter/bloom.dat",
+	"bloom-filter-train-hashmap-output":"/home/shilpa/Datasets/MeetupData/BloomFilter/bloom-hashmap.dat",
+	"bloom-filter-test-input":"/home/shilpa/Datasets/MeetupData/meetup-rsvps-test.txt",
+	"bloom-filter-test-output":"/home/shilpa/Datasets/MeetupData/BloomFilter/BloomFilterOutput.txt"
+}

@@ -1,0 +1,8 @@
+{
+  "input-file-path": "/home/shilpa/Datasets/MeetupData/meetup-open-events.txt",
+  "count-tasks": "5",
+  "category": "tech",
+  "output-file-path-samples": "/home/shilpa/cities-count-final-samples.csv",
+  "output-file-path-results": "/home/shilpa/cities-count-final-results.csv"
+}
+

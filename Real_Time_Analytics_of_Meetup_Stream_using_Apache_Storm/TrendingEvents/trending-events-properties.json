@@ -1,0 +1,14 @@
+{
+  "rsvp-spout-input-file-path": "/home/shilpa/Datasets/MeetupData/meetup-rsvps",
+  "rsvp-spout-tasks-count": "1",
+  "rsvp-spout-sleep-time": "1",
+  "count-bolt-tasks-count": "3",
+  "count-bolt-emit-freq": "5",
+  "agg-bolt-tasks-count": "2",
+  "agg-bolt-emit-freq": "8",
+  "rank-bolt-tasks-count": "1",
+  "rank-bolt-emit-freq": "5",
+  "report-bolt-tasks-count": "1",
+  "report-bolt-output-file-path": "/home/shilpa/Datasets/MeetupData/trending-output.txt",
+  "sliding-window-size": "3"
+}
