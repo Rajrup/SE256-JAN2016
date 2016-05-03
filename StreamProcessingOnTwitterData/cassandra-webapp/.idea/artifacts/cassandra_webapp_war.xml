@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cassandra-webapp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cassendra-webapp.war">
+      <element id="artifact" artifact-name="cassandra-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
